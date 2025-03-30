@@ -11,20 +11,18 @@ Emotion is one of the basic instincts of a human being. Emotion detection plays 
 
 ## Technologies
 Project is created with:
-
 ### Google Colab
 Language used in this project is:
-
 ### Python
 
 ## Dataset
 Here tweet emotions from SemEval-2018 Affect in Tweets Distant Supervision Corpus (AIT-2018 Dataset) is used.This dataset has two columns content and sentiment. It has 20000 unique text classified with 6 emotions such as anger, love, surprise, fear, joy, sadness. This dataset contains lots of emotions but they mainly clustered those emotions into 4 basic emotions such as anger, fear, joy, sadness.
 
 ## Models
-Support Vector Machine (SVM)
-Logistic Regression
-Random Forest Classifier
-Multinomial Naive Bayes
+Support Vector Machine (SVM), 
+Logistic Regression,
+Random Forest Classifier,
+Multinomial Naive Bayes,
 Decision Tree Classifier
 
 ## Result
