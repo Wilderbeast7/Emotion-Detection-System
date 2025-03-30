@@ -24,7 +24,6 @@ Here tweet emotions from SemEval-2018 Affect in Tweets Distant Supervision Corpu
 Support Vector Machine (SVM)
 Logistic Regression
 Random Forest Classifier
-XGBoost Classifier
 Multinomial Naive Bayes
 Decision Tree Classifier
 
